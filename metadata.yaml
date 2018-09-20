@@ -1,0 +1,27 @@
+_repo: On-the-Connexion-of-the-Physical-Sciences_52869
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Somerville, Mary
+    alias: Somerville, Mary Fairfax
+    birthdate: 1780
+    deathdate: 1872
+    gutenberg_agent_id: '32884'
+    url: http://www.gutenberg.org/2009/agents/32884
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Somerville
+description: ''
+gutenberg_issued: '2016-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Physical sciences'
+- !lcsh 'Science'
+- GITenberg
+title: On the Connexion of the Physical Sciences
+url: http://www.gutenberg.org/ebooks/52869
